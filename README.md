@@ -67,7 +67,7 @@ HTML5, CSS3, JavaScript
 
 - Email: hansikayama93@gmail.com
 - [GitHub Profile](https://github.com/YAMAHANSIKASAISRUJANA)
-- LinkedIn: Add your profile link here.
+- LinkedIn: https://www.linkedin.com/in/hansika-y-4422857a
 
 ---
 
